@@ -1,0 +1,9 @@
+C:\TeamFloppy\TeamFloppy\TeamFloppy\bin\Debug\netcoreapp1.1\TeamFloppy.deps.json
+C:\TeamFloppy\TeamFloppy\TeamFloppy\bin\Debug\netcoreapp1.1\TeamFloppy.runtimeconfig.json
+C:\TeamFloppy\TeamFloppy\TeamFloppy\bin\Debug\netcoreapp1.1\TeamFloppy.runtimeconfig.dev.json
+C:\TeamFloppy\TeamFloppy\TeamFloppy\bin\Debug\netcoreapp1.1\TeamFloppy.dll
+C:\TeamFloppy\TeamFloppy\TeamFloppy\bin\Debug\netcoreapp1.1\TeamFloppy.pdb
+C:\TeamFloppy\TeamFloppy\TeamFloppy\obj\Debug\netcoreapp1.1\TeamFloppy.csprojResolveAssemblyReference.cache
+C:\TeamFloppy\TeamFloppy\TeamFloppy\obj\Debug\netcoreapp1.1\TeamFloppy.AssemblyInfo.cs
+C:\TeamFloppy\TeamFloppy\TeamFloppy\obj\Debug\netcoreapp1.1\TeamFloppy.dll
+C:\TeamFloppy\TeamFloppy\TeamFloppy\obj\Debug\netcoreapp1.1\TeamFloppy.pdb
